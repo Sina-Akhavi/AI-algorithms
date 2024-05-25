@@ -1,0 +1,21 @@
+Stages (main):
+
+- Perform EDA
+- Find the optimum K (Elbow method)
+- Perform K-means
+
+Stages (detailed):
+1. Perform EDA
+2. Implement Kmeans
+3. Test Kmeans
+4. Find the optimum k
+5. Perform Kmeans
+6. Report
+
+
+
+------------------------------------
+May 25:
+- I implemented Kmeans
+- I searched for Elbow Method and I understood that.
+
