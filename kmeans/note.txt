@@ -18,4 +18,8 @@ Stages (detailed):
 May 25:
 - I implemented Kmeans
 - I searched for Elbow Method and I understood that.
-
+------------------------------------
+- clean the code
+- report the output
+- commit the project
+- upload the project
